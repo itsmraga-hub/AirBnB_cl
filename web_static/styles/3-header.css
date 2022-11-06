@@ -1,9 +1,9 @@
 header {
-  background-color: #ff0000;
+  background-color: #fff;
   height: 70px;
   width: 100%;
   color: #fff;
-  border-bottom: 1px splid #ccc;
+  border-bottom: 1px solid #ccc;
   background-image: url("../images/logo.png");
   background-repeat: no-repeat;
   background-position: 20px center;
